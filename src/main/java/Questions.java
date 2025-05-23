@@ -13,7 +13,7 @@ public class Questions {
         return 3;
     }
 
-    int question2() {
+    int question2() { 
         /*
          * Replace the 0 in the return statement with the answer you believe to be true
          * for the question below
